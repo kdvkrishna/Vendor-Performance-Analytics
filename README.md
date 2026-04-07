@@ -6,11 +6,15 @@ Vendor Performance & Procurement Analytics 📊📌 Project OverviewThis project
 
 
 ## 🛠️ Tech Stack
-**Database:** PostgreSQL
-**Language:** Python
-**Libraries:** Pandas, NumPy, SQLAlchemy, Matplotlib, Seaborn
-**Tools:** Jupyter Notebooks, pgAdmin4
-**Visualisation:** Power BI
+* **Database:** PostgreSQL
+
+* **Language:** Python
+
+* **Libraries:** Pandas, NumPy, SQLAlchemy, Matplotlib, Seaborn
+
+* **Tools:** Jupyter Notebooks, pgAdmin4
+
+* **Visualisation:** Power BI
 
 
 # 📂 Project Structure
